@@ -4,7 +4,7 @@ package ccc.aaa;/*
  */
 
 public class A {
-   int a5=0;
+   int a5=6;
 
     public int getA5() {
         return a5;
